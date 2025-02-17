@@ -1,3 +1,11 @@
+<h2 align="left">Hello everyone 👋</h2>
+
+###
+
+<p align="left">Currently a Software Engineering student at Izmir University of Economics 🇹🇷</p>
+
+###
+
 <h2 align="left">Languages and Tecnologies</h2>
 
 ###
@@ -30,7 +38,7 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkarakan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkarakan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
@@ -40,4 +48,3 @@
 </div>
 
 ###
-
