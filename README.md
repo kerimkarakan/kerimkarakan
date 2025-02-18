@@ -1,5 +1,5 @@
 <h2 align="left">Hello everyone 👋</h2>
-[![Github](https://img.shields.io/github/followers/kerimkarakan?label=Follow&style=social)](https://github.com/kerimkarakan)
+
 ###
 
 <p align="left">Currently a Software Engineering student at Izmir University of Economics 🇹🇷</p>
@@ -37,7 +37,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkarakan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=graywhite&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkarakan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dark&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
