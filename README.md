@@ -1,12 +1,12 @@
 <h2 align="left">Hello everyone 👋</h2>
-
+[![Github](https://img.shields.io/github/followers/kerimkarakan?label=Follow&style=social)](https://github.com/kerimkarakan)
 ###
 
 <p align="left">Currently a Software Engineering student at Izmir University of Economics 🇹🇷</p>
 
 ###
 
-<h2 align="left">Languages and Tecnologies</h2>
+<h2 align="left">⚒️ Languages and Technologies</h2>
 
 ###
 
@@ -25,20 +25,19 @@
 
 ###
 
-<h2 align="left">Find me</h2>
+<h2 align="left">🪩 Social</h2>
 
 ###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
 </div>
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkarakan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="140" alt="languages graph"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkarakan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=graywhite&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
