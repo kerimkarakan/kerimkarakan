@@ -12,23 +12,14 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img width="8" />
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
-  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
 </div>
 
@@ -40,7 +31,6 @@
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="linkedin logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=instagram" height="40" alt="instagram logo"  />
 </div>
 
