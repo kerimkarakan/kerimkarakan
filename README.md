@@ -44,7 +44,7 @@
 ###
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kerimkarakan.kerimkarakan&right_color=black&left_text=Viewers"  />
+  <img src="https://komarev.com/ghpvc/?username=kerimkarakan&label=Views&color=lightgrey&style=flat" alt="views"/>
 </div>
 
 ###
