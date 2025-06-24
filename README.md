@@ -15,6 +15,7 @@
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"   />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
@@ -26,7 +27,7 @@
 
 ###
 
-<h2 align="left">🪩 Social</h2>
+<h2 align="left">Find me on: </h2>
 
 ###
 
