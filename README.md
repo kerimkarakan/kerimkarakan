@@ -15,14 +15,20 @@
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"   />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
+  <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
+  <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo"  />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="50" alt="phpstorm logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
+</div>
+
+###
 </div>
 
 ###
