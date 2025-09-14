@@ -16,6 +16,7 @@
   <img src="https://skillicons.dev/icons?i=cs" height="50" alt="csharp logo"  />
   <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cplusplus logo"  />
   <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo"  />
+  <img src="https://skillicons.dev/icons?i=swift" height="50" alt="swift logo"  />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"   />
   <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo"  />
   <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="googlecloud logo"  />
