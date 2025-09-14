@@ -24,7 +24,6 @@
   <img src="https://skillicons.dev/icons?i=vscode" height="50" alt="vscode logo"  />
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
   <img src="https://skillicons.dev/icons?i=pycharm" height="50" alt="pycharm logo"  />
-  <img src="https://skillicons.dev/icons?i=phpstorm" height="50" alt="phpstorm logo"  />
   <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo"  />
   <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
 </div>
