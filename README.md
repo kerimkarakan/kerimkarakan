@@ -51,7 +51,5 @@
 ###
 
 <div align="left">
-  <img src="https://komarev.com/ghpvc/?username=kerimkarakan&label=Views&color=lightgrey&style=flat" alt="views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kerimkarakan.kerimkarakan&left_color=black&right_color=black&left_text=Views"  />
 </div>
-
-###
