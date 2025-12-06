@@ -45,11 +45,5 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkarakan&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=12&theme=highcontrast&hide_border=false&order=2" height="210" alt="languages graph"  />
-</div>
-
-###
-
-<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=kerimkarakan.kerimkarakan&left_color=black&right_color=black&left_text=Views"  />
 </div>
